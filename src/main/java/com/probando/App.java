@@ -2,6 +2,7 @@ package com.probando;
 
 /**
  * Hello world!
+ * Learning Maven and Git
  *
  */
 public class App 
